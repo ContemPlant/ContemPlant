@@ -5,8 +5,9 @@ For effective learning to take place, a healthy and non-distracting environment 
 
 ## What it does
 ContemPlant combines technologies spanning from Sensors to AR in one neat product, to bring the future of learning to your university library.
-
-<Photo1> 3D Model
+ 
+<img src="/images/box_front.jpg" width="512">
+3D Model
 
 <Photo2> Web Interface
 
