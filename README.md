@@ -46,7 +46,7 @@ Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
 - Niklas Schmitz
 
 ## Acknowledgements
-This work was created as a course project in the summer term 2018
+This work was created as a course project in the summer term 2018  
 Official course name: "Programmierpraktikum Cyber-Physical Systems"
 
 Our special thanks goes to
