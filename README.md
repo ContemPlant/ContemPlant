@@ -28,11 +28,11 @@ How do we make sure you're not using your phone while learning?
 Here's the procedure:  
 - select one of your plants in the app
 - slide your phone into the box, camera facing up
-	1. your phone will scan a dynamic QR code off a hidden display and log you in automatically
- 	2. the weight of your phone is keeping a button pressed (2nd factor)
+    * your phone will scan a dynamic QR code off a hidden display and log you in automatically
+    * the weight of your phone is keeping a button pressed (2nd factor)
 - ongoing session: the tiny outside display displays a check mark
 - once you finish, you just pull your phone out
-	3. as the button is no longer pressed, it triggers your log out
+    * as the button is no longer pressed, it triggers your log out
 - the app switches to the AR view and your personally computed plant is projected onto the top of the box
 	
 <img src="/images/model_cut_z.png" width="512">
