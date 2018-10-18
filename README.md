@@ -1,19 +1,32 @@
 # ContemPlant
 
 ## Inspiration
-For effective learning to take place, a healthy and non-distracting environment is crucial. 
+For effective learning to take place, a healthy and non-distracting environment is crucial. Nowadays for many students it becomes increasingly difficult to learn concentrated and without distractions. For more and more students, a regular look at the smartphone is part of the learning process.
 
-## What it does
-ContemPlant combines technologies spanning from Sensors to AR in one neat product, to bring the future of learning to your university library.
- 
+Well here's the fix. Motivational Plants. ContemPlants! 
 
-3D Model
+<Insert Plant screenshot here>
+
+## What is a ContemPlant ?
+"ContemPlant" was developed to support effective learning and concentration. 
+The idea is that students have to grow and maintain virtual plants that only grow if they try to learn "well" and concentrated, i.e. in this case if they learn at a quiet, well-tempered and well-lit workplace - without using the smartphone! 
+The core for this is the so-called "ContemPlant-Box", a clever combination of sensors in an aesthetically pleasing box, which is placed at the respective learning place.
+
 <img src="/images/model.png" width="512">
+
+Learning with ContemPlant is very easy and even fun: You download an app onto your smartphone, place the smartphone in the box and start learning. The sensors in the box then continuously measure the quality of the learning environment and determine whether the smartphone is being used. 
+If you have finished learning and would like to get an assessment of the learning environment and your own learning discipline, all you have to do is pull the smartphone out of the box. With Augmented Reality, you can now use your smartphone to observe the virtual plant growing out of the box. 
+Once you have learned well, the plant becomes big and beautiful. If you learn badly and instead concentrate on other things, the plant will shrink. 
+This AR feedback is a fascinating way to get a feel for how you've learned - and definitely motivates you to make the plant grow!
+
+This is the future of learning as we imagine it to be!
+
+ 
 <img src="/images/model_cut_x.png" width="512">
 <img src="/images/model_cut_z.png" width="512">
 
 
-Prototype
+Prototype  
 <img src="/images/box_front.jpg" width="512"> 
 
 
