@@ -6,16 +6,15 @@ For effective learning to take place, a healthy and non-distracting environment 
 ## What it does
 ContemPlant combines technologies spanning from Sensors to AR in one neat product, to bring the future of learning to your university library.
  
-<img src="/images/box_front.jpg" width="512">
+
 3D Model
+<img src="/images/model.png" width="512">
+<img src="/images/model_cut_x.png" width="512">
+<img src="/images/model_cut_z.png" width="512">
 
-<Photo2> Web Interface
 
-<Photo3> Box
-
-<photo4> Box with Phone
-
-<Photo5> AR
+Prototype
+<img src="/images/box_front.jpg" width="512"> 
 
 
 ## Built with
@@ -34,4 +33,14 @@ Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
 - Niklas Schmitz
 
 ## Acknowledgements
+This work was created as a course project in the summer term 2018
+Official course name: "Programmierpraktikum Cyber-Physical Systems"
 
+Our special thanks goes to
+Tobias Pfeffer
+for mentoring and support
+
+and also to the chair of 
+Prof. Dr. Sabine Glesner
+Software and Embedded Systems Engineering
+Technische Universität Berlin
