@@ -38,7 +38,7 @@ Here's the procedure:
 <img src="/images/model_cut_z.png" width="512">
 
 
-Prototype  
+Prototype with trackable surface  
 <img src="/images/box_front.jpg" width="512"> 
 
 
@@ -61,11 +61,11 @@ Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
 This work was created as a course project in the summer term 2018  
 Official course name: "Programmierpraktikum Cyber-Physical Systems"
 
-Our special thanks goes to
-Tobias Pfeffer
+Our special thanks goes to  
+Tobias Pfeffer  
 for mentoring and support
 
-and also to the chair of 
-Prof. Dr. Sabine Glesner
-Software and Embedded Systems Engineering
+and also to the chair of  
+Prof. Dr. Sabine Glesner  
+Software and Embedded Systems Engineering  
 Technische Universität Berlin
