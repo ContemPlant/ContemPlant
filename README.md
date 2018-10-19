@@ -6,8 +6,7 @@ For effective learning to take place, a healthy and non-distracting environment 
 
 Well here's the fix. Motivational Plants. ContemPlants! 
 
-<img src="images/plants/plant1_screenshot_1.png" width="256">
-<img src="images/plants/plant1_screenshot_2.png" width="256">
+![plants in AR](./images/plant-screenshots-comparison.png)
 
 ## What is a ContemPlant ?
 "ContemPlant" was developed to support effective learning and concentration.  
