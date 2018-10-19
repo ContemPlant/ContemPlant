@@ -6,8 +6,7 @@ For effective learning to take place, a healthy and non-distracting environment 
 
 Well here's the fix. Motivational Plants. ContemPlants! 
 
-:-------------------------:|:-------------------------:
-<img src="images/IMG_0479.png" width="256"> |  ![](https://...Dark.png)
+<img src="images/IMG_0479.png" width="256">
 
 
 ## What is a ContemPlant ?
