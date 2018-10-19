@@ -1,3 +1,4 @@
+![Banner](./images/Banner.svg)
 # ContemPlant
 
 ## Inspiration
