@@ -39,8 +39,9 @@ Here's the procedure:
 <img src="/images/model_cut_z.png" width="512">
 
 
-Prototype with trackable surface  
-<img src="/images/box_front.jpg" width="512"> 
+<img src="/images/box_front.jpg" width="512">
+
+_Prototype with trackable surface_
 
 ## Built with
 Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
