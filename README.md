@@ -5,7 +5,9 @@ For effective learning to take place, a healthy and non-distracting environment 
 
 Well here's the fix. Motivational Plants. ContemPlants! 
 
-<Insert Plant screenshot here>
+:-------------------------:|:-------------------------:
+<img src="images/IMG_0479.png" width="256"> |  ![](https://...Dark.png)
+
 
 ## What is a ContemPlant ?
 "ContemPlant" was developed to support effective learning and concentration.  
@@ -40,7 +42,6 @@ Here's the procedure:
 
 Prototype with trackable surface  
 <img src="/images/box_front.jpg" width="512"> 
-
 
 ## Built with
 Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
