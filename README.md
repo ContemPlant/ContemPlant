@@ -36,10 +36,9 @@ Here's the procedure:
     * as the button is no longer pressed, it triggers your log out
 - the app switches to the AR view and your personally computed plant is projected onto the top of the box
 
-<table style="border-collapse:collapse">
-    <tr> <td> <img src="./images/model_cut_z.png"  width="500"> </td>  <td> <img src="./images/box_front.jpg" width="500"> </td></tr>
-    <tr> <td><center>3D Model with inserted smartphone</center></td>  <td><center>Prototype with trackable surface</center></td></tr>
-</table>
+<img src="./images/model_cut_z.png"  width="500"> | <img src="./images/box_front.jpg"  width="500">
+--------------------------------------------------|------------------------------------------------
+3D Model with inserted smartphone                 | Prototype with trackable surface
 
 ## Built with
 Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
