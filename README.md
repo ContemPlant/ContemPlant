@@ -4,13 +4,13 @@
 ## Inspiration
 For effective learning to take place, a healthy and non-distracting environment is crucial. Nowadays for many students it becomes increasingly difficult to learn concentrated and without distractions. For more and more students, a regular look at the smartphone is part of the learning process.
 
-Well here's the fix. Motivational Plants. ContemPlants! 
+Well here's the fix. Motivational Plants. ContemPlants!
 
 ![plants in AR](./images/plant-screenshots-comparison.png)
 
 ## What is a ContemPlant ?
 "ContemPlant" was developed to support effective learning and concentration.  
-The idea is that students have to grow and maintain virtual plants that only grow if they try to learn "well" and concentrated, i.e. in this case if they learn at a quiet, well-tempered and well-lit workplace - without using the smartphone! 
+The idea is that students have to grow and maintain virtual plants that only grow if they try to learn "well" and concentrated, i.e. in this case if they learn at a quiet, well-tempered and well-lit workplace - without using the smartphone!
 The core for this is the so-called "ContemPlant-Box", a clever combination of sensors in an aesthetically pleasing box, which is placed at the respective learning place.
 
 <img src="/images/model.png" width="512">
@@ -22,7 +22,7 @@ This AR feedback is a fascinating way to get a feel for how you've learned - and
 
 This is the future of learning as we imagine it to be!
 
- 
+
 <img src="/images/model_cut_x.png" width="512">
 
 How do we make sure you're not using your phone while learning?  
@@ -35,8 +35,11 @@ Here's the procedure:
 - once you finish, you just pull your phone out
     * as the button is no longer pressed, it triggers your log out
 - the app switches to the AR view and your personally computed plant is projected onto the top of the box
-	
-![3D model and prototype](./images/prototype-images-with-captions.svg)
+
+<table style="border-collapse:collapse">
+    <tr> <td> <img src="./images/model_cut_z.png"  width="500"> </td>  <td> <img src="./images/box_front.jpg" width="500"> </td></tr>
+    <tr> <td><center>3D Model with inserted smartphone</center></td>  <td><center>Prototype with trackable surface</center></td></tr>
+</table>
 
 ## Built with
 Arduino, SeeedStudio, Raspberry PI, React, GraphQL, Apple AR Kit
