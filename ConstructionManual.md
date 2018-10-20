@@ -5,12 +5,12 @@ This list contains the _names_ of all hardware components used in the ContemPlan
 - Raspberry Pi
 - 16 GB (or more) microSDHC
 
-
+ 
 - Arduino Uno R3
 - USB 2.0 CABLE TYPE A/B
 - Seeed Studio Grove Base Shield V2
 
-
+ 
 - XBee Module - Series 1 - 1mW with PCB Antenna
 - Sparkfun XBee Explorer Dongle
 - Sparking I2C LCD (with universal grove cable)
